@@ -30,6 +30,8 @@
 - [Friend of Foe](https://github.com/myers-jacobandrew/codewars-python/blob/main/7%20kyu/Friend%20or%20Foe.py) - [CodeWars Link](https://www.codewars.com/kata/55b42574ff091733d900002f)
 - [Ones and Zeroes](https://github.com/myers-jacobandrew/codewars-python/blob/main/7%20kyu/Ones%20and%20Zeros.py) - [CodeWars Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 - [last digits of a number](https://github.com/myers-jacobandrew/codewars-python/blob/main/7%20kyu/last%20digits%20of%20a%20number.py) - [CodeWars Link](https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0)
+- [Flatten and sort an Array.py](https://github.com/myers-jacobandrew/codewars-python/blob/main/7%20kyu/Flatten%20and%20sort%20an%20Array.py) - [CodeWars Link](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+
 
 
 ### 6 kyu:
