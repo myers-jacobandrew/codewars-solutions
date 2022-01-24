@@ -37,24 +37,19 @@
 - [Split Strings](https://github.com/myers-jacobandrew/codewars-python/blob/main/6%20kyu/Split%20Strings.py) - [CodeWars Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 
 ### 5 kyu:
-
-[...]
+- [...]
 
 ### 4 kyu:
-
-[...]
+- [...]
 
 ### 3 kyu:
-
-[...]
+- [...]
 
 ### 2 kyu:
-
-[...]
+- [...]
 
 ### 1 kyu:
+- [...]
 
-[...]
 
-
-### Info
+##More Info
