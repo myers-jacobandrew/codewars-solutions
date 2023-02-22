@@ -6,7 +6,7 @@
 
 **Navigation:**
 
-[8KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#8-kyu) | [7KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#7-kyu) | [6KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#6-kyu) | [5KYU](https://github.com/myers-jacobandrew/codewars-solutions/python/tree/main/python#5-kyu) | [4KYU](https://github.com/myers-jacobandrew/codewars-solutions/python/tree/main/python#4-kyu) | [3KYU](https://github.com/myers-jacobandrew/codewars-solutions/python/tree/main/python#3-kyu) | [2KYU](https://github.com/myers-jacobandrew/codewars-solutions/python/tree/main/python#2-kyu) | [1KYU](https://github.com/myers-jacobandrew/codewars-solutions/python/tree/main/python#1-kyu) 
+[8KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#8-kyu) | [7KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#7-kyu) | [6KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#6-kyu) | [5KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#5-kyu) | [4KYU](https://github.com/myers-jacobandrew/codewars-solutions/python/tree/main/python#4-kyu) | [3KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#3-kyu) | [2KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#2-kyu) | [1KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/python#1-kyu) 
 
 ### 8 kyu:
 - [Calculate BMI](https://github.com/myers-jacobandrew/codewars-python/blob/main/8%20kyu/Calculate%20BMI.py) - [CodeWars Link](https://www.codewars.com/kata/57a429e253ba3381850000fb)
