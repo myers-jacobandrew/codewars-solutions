@@ -19,7 +19,7 @@
 - [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/myers-jacobandrew/codewars-solutions/blob/main/sql/7%20kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236)) - [CodeWars Link](https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f)
 
 ### 6 kyu:
-- [Present XML data the SQL way](Present XML data the SQL way) - [CodeWars Link](https://www.codewars.com/kata/5db039743affec0027375de0)
+- [Present XML data the SQL way](https://github.com/myers-jacobandrew/codewars-solutions/blob/main/sql/6%20kyu/Present%20XML%20data%20the%20SQL%20way) - [CodeWars Link](https://www.codewars.com/kata/5db039743affec0027375de0)
 
 ### 5 kyu:
 - []() - [CodeWars Link]()
