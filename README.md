@@ -11,7 +11,6 @@
 
 ###### Creating a repository like this is discouraged by Codewars
 
-[![HitCount](http://hits.dwyl.io/myers-jacobandrew/codewars-solutions.svg)](http://hits.dwyl.io/myers-jacobandrew/codewars-solutions)
 ![GitHub top language](https://img.shields.io/github/languages/top/myers-jacobandrew/codewars-solutions)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/myers-jacobandrew/codewars-solutions)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/myers-jacobandrew/codewars-solutions)
