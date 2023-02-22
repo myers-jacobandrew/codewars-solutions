@@ -9,7 +9,7 @@
 [8KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#8-kyu) | [7KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#7-kyu) | [6KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#6-kyu) | [5KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#5-kyu) | [4KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#4-kyu) | [3KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#3-kyu) | [2KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#2-kyu) | [1KYU](https://github.com/myers-jacobandrew/codewars-solutions/tree/main/sql#1-kyu) 
 
 ### 8 kyu:
-
+[Adults only](https://github.com/myers-jacobandrew/codewars-solutions/blob/main/sql/8%20kyu/Adults%20only%20(SQL%20for%20Beginners%20%231))
 
 ### 7 kyu:
 
