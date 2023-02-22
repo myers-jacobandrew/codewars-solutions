@@ -8,4 +8,4 @@ def solution(s):
         list.append(s[i : i + 2])
     return list
     
-    pass
+    
