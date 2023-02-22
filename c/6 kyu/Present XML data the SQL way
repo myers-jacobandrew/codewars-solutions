@@ -1,0 +1,13 @@
+SELECT
+  (xpath('/user/first_name/text()', xml_column))[1]::text as first_name,
+  (xpath('/user/last_name/text()', xml_column))[1]::text as last_name,
+  (date_part('year', age((xpath('/user/date_of_birth/text()', xml_column))[1]::text::date)))::int AS age, 
+  CASE
+    WHEN xpath('/user/private/text()', xml_column::xml)::text = 'true' THEN 'Hidden'
+    WHEN xpath('/user/email_addresses/address[1]/text()', xml_column::xml) IS NULL THEN 'None'
+    ELSE (xpath('/user/email_addresses/address[1]/text()', xml_column::xml))[1]::text 
+  END AS email_address
+FROM
+  (SELECT unnest(xpath('/data/user', data::xml)) as xml_column FROM users) subquery
+ORDER BY
+  (xpath('/user/first_name/text()', xml_column))[1]::text;
