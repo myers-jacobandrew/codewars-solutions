@@ -1,1 +1,0 @@
-Select name,age from Users Where age>=18
