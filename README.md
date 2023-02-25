@@ -1,6 +1,8 @@
 # codewars-solutions
 
+**My profile on [codewars](https://www.codewars.com/users/jacmy)**
 
+![Codewars Rank](https://www.codewars.com/users/jacmy/badges/large)
 
 
 ###### Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches

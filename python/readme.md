@@ -1,8 +1,6 @@
 ## Codewars kata\`s for Python
 
-**My profile on [codewars](https://www.codewars.com/users/jacmy)**
 
-![Codewars Rank](https://www.codewars.com/users/jacmy/badges/large)
 
 **Navigation:**
 
