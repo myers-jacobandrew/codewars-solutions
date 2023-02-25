@@ -22,7 +22,7 @@
 - [Reversed Words](https://github.com/myers-jacobandrew/codewars-python/blob/main/8%20kyu/Reversed%20Words.py) - [CodeWars Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 - [String Repeat](https://github.com/myers-jacobandrew/codewars-python/blob/main/8%20kyu/String%20repeat.py) - [CodeWars Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - [Whats the real floor](https://github.com/myers-jacobandrew/codewars-python/blob/main/8%20kyu/What's%20the%20real%20floor.py) - [CodeWars Link](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
-
+- []() - [CodeWars Link]()
 
 
 ### 7 kyu:
